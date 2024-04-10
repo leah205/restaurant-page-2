@@ -1,4 +1,6 @@
-console.log("webpack working");
+import homePageContainer from "./home.js";
+import menuContainer from "./menu.js";
+import contactPage from "./contact.js";
 
-const button = document.createElement("button");
-const header = document.createElement("h1");
+const pageContainer = document.querySelector("#content");
+pageContainer.appendChild(contactPage);
