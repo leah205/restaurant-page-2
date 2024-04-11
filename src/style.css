@@ -33,12 +33,15 @@ header{
     box-shadow: 1px 1px 5px rgb(189, 189, 189);
     width: 100vw;
 }
-#nav-bar li {
+#nav-bar button {
     margin-left: 2%;
     font-size: 2em;
+    background:0;
+    border:0;
+    color: white;
     width: 30%;
 }
-#nav-bar li:hover{
+#nav-bar button:hover{
    color: rgb(240, 130, 4);
    font-size: 2.3em;
 }

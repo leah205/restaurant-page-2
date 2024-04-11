@@ -11,7 +11,7 @@ import hotChocolate from  "./images/hot-chocolate.jpeg";
 import icedDrink from  "./images/iced-drink.jpeg";
 import panini from  "./images/panini.jpeg";
 import quiche from  "./images/quiche.jpeg";
-import roastedCoffeeBeans from  "./images/roasted-coffee-beans.webp";
+import roastedCoffeeBeans from  "./images/roasted-coffee-beans.jpeg";
 import sweetFrenchCrepe from  "./images/sweet-french-crepe.jpeg";
 import tea from  "./images/tea.jpeg";
 
