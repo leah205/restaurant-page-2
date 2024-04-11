@@ -40,10 +40,8 @@ homeButton.addEventListener("click", () => {
 });
 
 menuButton.addEventListener("click", () => {
-    console.log(pageContainer.firstChild);
     pageContainer.removeChild(pageContainer.firstChild);
     pageContainer.appendChild(menuContainer);
-  
 });
 pageContainer.appendChild(homePageContainer);
 
